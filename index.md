@@ -1,17 +1,5 @@
 ![](https://d2eslrut6bvw18.cloudfront.net/v2/39196/contents/em45qTbdWS0KWNAI/mw1920_linkedin--2020-04-27.png)
 
-Highlight color code:
-
-Pink = DONE
-
-Orange = needs EDITS
-
-Green = needs CONTENT
-
-Blue = needs REVIEW @person
-
-Purple = do we even need this?
-
 # **Dojo4 Playbook**
 
 This is how we do it yall.
