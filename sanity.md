@@ -1,6 +1,4 @@
-layout: page
-title: sanity
-permalink: /sanity
+
 
 <https://little-startup-handbook.dojo4.com/make-sanity-number-1/>
 
