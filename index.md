@@ -89,27 +89,24 @@
 
 ## **Human Protocols**
 
-  - [Member / Contractor
-    Handbook](https://github.com/dojo4/policy/blob/master/hr.md)
-  - [Ops Bible @Jetha - also see Business
-    Relationships](https://docs.google.com/document/d/1E6l0-SMJu3GN7ymCCEkxhJn6_kMbUijbKjqfOTme2-A/edit?usp=sharing)
-  - [Internal Communication](https://dojo4.bit.ai/docs/Bxydnl5HTPtYOSsN)
-  - [Client Communication](https://dojo4.bit.ai/docs/uQKOXMWTOI1SXtYP)
-  - [Community Engagement](https://dojo4.bit.ai/docs/PrDevHsnFoQV5OWF)
-  - [Sales](https://dojo4.bit.ai/docs/PpgqKLok9TZvkhNW)
-  - [Office Ritual](https://dojo4.bit.ai/docs/qEgAbsM1bC0L7jrq)
+  - [Member / Contractor Handbook](https://github.com/dojo4/policy/blob/master/hr.md)
+  - [Ops Bible @Jetha - also see Business Relationships](https://docs.google.com/document/d/1E6l0-SMJu3GN7ymCCEkxhJn6_kMbUijbKjqfOTme2-A/edit?usp=sharing)
+  - [Internal Communication](./internal-comms.md)
+  - [Client Communication](./client-comms.md)
+  - [Community Engagement](./community.md)
+  - [Sales](./sales.md)
+  - [Office Ritual](./office-ritual.md)
   - Money
-      - [Time Tracking](https://dojo4.bit.ai/docs/gDFw6K81oSooQxXO)
-      - [Invoicing](https://dojo4.bit.ai/docs/dBrQpPK4SeVQrH64)
+      - [Time Tracking]((./time-tracking.md)
+      - [Invoicing](./invoicing.md)
       - What else? @Corey
 
   
 
 ## **Tools**
 
-  - [Redmine](https://dojo4.bit.ai/docs/i7VMnKMr1bdDY9zb)
-  - [Operations / Business
-    Tools](https://dojo4.bit.ai/docs/i0V2Mz2C0UCgC1Zg)
+  - [Redmine](./redmine.md)
+  - [Operations / Business Tools](https://dojo4.bit.ai/docs/i0V2Mz2C0UCgC1Zg)
   - [Google Tools](https://dojo4.bit.ai/docs/CtfMQZkCDOLRFEh8)
     @luke/@corey
 
