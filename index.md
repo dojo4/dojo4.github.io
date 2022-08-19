@@ -34,7 +34,7 @@
 ## **Legal**
 
   - Colorado Limited Cooperative
-      - [Co-op Bylaws](./co-op-bylaws.md)
+      - [Co-op Bylaws](./bylaws.md)
       - [Membership
         Agreement](./membership-agreement.md)
       - [Term Sheet](https://dojo4.bit.ai/docs/ogbG1Aaz93aEKELi)
@@ -61,25 +61,24 @@
 
 ## **Roles and Responsibilities**
 
-  - [Roles & Responsibilities](./Roles-&-Responsibilities.md)
+  - [Roles & Responsibilities](./roles.md)
 
   
 
 ## **Co-op Protocols and Processes**
 
-  - [Co-op member eligibility, privileges & responsibilities](https://dojo4.bit.ai/docs/r8zGcImHW08upb5i)
-  - [Voting protocol](https://dojo4.bit.ai/docs/LnTgjNDuk0kMvI1A)
+  - [Co-op member eligibility, privileges & responsibilities](./eligibility.md)
+  - [Voting protocol](./voting-protocol.md)
 
   
 
 ## **Wells We Draw From**
 
   - [Antidote to Tech](https://www.antidoteto.tech/)
-  - [B Corp](https://dojo4.bit.ai/docs/TcpwhaHmOv2Q2Ob6)
-  - [Permaculture](https://dojo4.bit.ai/docs/sViZmagviFaz9iEu)
-  - [Zebra Network](https://dojo4.bit.ai/docs/OY3pmtcMLtvtYMsz)
-  - [Sustainable Web
-    Manifesto](https://www.sustainablewebmanifesto.com/)
+  - [B Corp](./b-corp.md)
+  - [Permaculture](./permaculture.md)
+  - [Zebra Network](./zebra.md)
+  - [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/)
   - What else?
 
   
