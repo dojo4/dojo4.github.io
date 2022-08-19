@@ -37,14 +37,14 @@
       - [Co-op Bylaws](./bylaws.md)
       - [Membership
         Agreement](./membership-agreement.md)
-      - [Term Sheet](https://dojo4.bit.ai/docs/ogbG1Aaz93aEKELi)
+      - [Term Sheet](./term-sheet.md)
   - [Mutual Nondisclosure Agreement](./Mutual-Nondisclosure-Agreement.md)
   - [Master Services Agreement](./Master-Services-Agreement.md)
   - Templates
-      - [Statement of Work Agreement](./Statement-of-Work-Agreement.md)
-      - [Iterative SOW Agreement](./Iterative-SOW-Agreement.md)
-      - [Subcontractor Agreement](./Subcontractor-Agreement.md)
-      - [Deep Dive Agreement](./Deep-Dive-Agreement.md)
+      - [Statement of Work Agreement](./sow-agreement.md)
+      - [Iterative SOW Agreement](./iterative-sow-agreement.md)
+      - [Subcontractor Agreement](./subcontractor-Agreement.md)
+      - [Deep Dive Agreement](./deep-dive-agreement.md)
 
   
 
@@ -52,7 +52,7 @@
 
   - [People Policy](./People-Policy.md)
   - [Environmental Policy](./environmental_policy.md)
-  - [Ethical Marketing Client Engagement Policy](./ethical-marketing-client-engagement-policy.md)
+  - [Ethical Marketing Client Engagement Policy](./ethical-marketing-policy.md)
   - [Family-Friendly Workplace Manifesto](./Family-Friendly-Workplace-Manifesto.md)
   - [Community Policy](./community.md)
   - [Parental Leave](./parental-leave.md)
@@ -106,8 +106,8 @@
 ## **Tools**
 
   - [Redmine](./redmine.md)
-  - [Operations / Business Tools](https://dojo4.bit.ai/docs/i0V2Mz2C0UCgC1Zg)
-  - [Google Tools](https://dojo4.bit.ai/docs/CtfMQZkCDOLRFEh8)
+  - [Operations / Business Tools](./biz-tools.md)
+  - [Google Tools](./google-tools.md)
     @luke/@corey
 
   
@@ -143,7 +143,7 @@
   - [Design Workflow](./design-workflow.md) @luke
   - [Development Workflow](./dev-workflow.md)
     @all
-  - [Deployment Workflow](https://dojo4.bit.ai/docs/ArmAg83dPSSMHNaz)
+  - [Deployment Workflow](./deployment-workflow.md)
     @jeremy
   - [Onboarding / How to spin up a
     project?](./spin-up.md) @luke / @all /
