@@ -14,7 +14,7 @@
 
   - Technical Approach
   - [Humans](https://dojo4.bit.ai/docs/W8n12taxmVPeOf5Z)
-  - [Sanity](https://dojo4.bit.ai/docs/MgocrDEK3QzaTZJf)
+  - [Sanity](./sanity.md)
   - [Community](https://dojo4.bit.ai/docs/PrDevHsnFoQV5OWF)
   - [Generosity](https://dojo4.bit.ai/docs/RrBMQUJAASaGK2Vp)
   - [Code of Conduct](https://dojo4.bit.ai/docs/qXPJTssdWP82G566)
