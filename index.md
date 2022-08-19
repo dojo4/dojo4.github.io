@@ -126,7 +126,7 @@
 
 ## **Philosophy**
 
-  - [Technology Philosophy](https://dojo4.bit.ai/docs/0OP7nJcwTUENd302)
+  - [Technology Philosophy](./tech-philosophy.md)
     @derek
   - [Antidote to Tech](http://antidoteto.tech)
 
@@ -134,19 +134,19 @@
 
 ## **Human Protocols**
 
-  - [Project Management](https://dojo4.bit.ai/docs/BDXiLvDyqEsH0Vtn)
+  - [Project Management](./project-management.md)
     @derek
-  - [Requirements Gathering](https://dojo4.bit.ai/docs/XNhYctATJEiLxt0C)
+  - [Requirements Gathering](./requirements-gathering.md)
     @derek
-  - [Estimating](https://dojo4.bit.ai/docs/LdCacSj8yYadmIiN)
-  - [Leading a Project](https://dojo4.bit.ai/docs/9Kubq1l8gSQuMzjn)
-  - [Design Workflow](https://dojo4.bit.ai/docs/nmh2s5m1bkDSRMKa) @luke
-  - [Development Workflow](https://dojo4.bit.ai/docs/82hJrLZyJ0b20Omq)
+  - [Estimating](./estimating.md)
+  - [Leading a Project](leading-a-project.md)
+  - [Design Workflow](./design-workflow.md) @luke
+  - [Development Workflow](./dev-workflow.md)
     @all
   - [Deployment Workflow](https://dojo4.bit.ai/docs/ArmAg83dPSSMHNaz)
     @jeremy
   - [Onboarding / How to spin up a
-    project?](https://dojo4.bit.ai/docs/nLG3GrO3uHjSKoV4) @luke / @all /
+    project?](./spin-up.md) @luke / @all /
     @Corey
   - [Developer Environment Checklist](.env-checklist.md) @jeremy
   - [Checklist of shit that every project needs](./project-checklist.md) @derek
