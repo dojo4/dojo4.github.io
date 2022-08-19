@@ -3,9 +3,9 @@ are enshrined in the original co-op formation documents (all of which
 are also [open-sourced on
 Github](https://github.com/dojo4/policy/tree/master/co-op)):
 
-  - [Bylaws](https://dojo4.bit.ai/docs/PJwDaPQrHqtUcyqr)
-  - [Membership Agreement](https://dojo4.bit.ai/docs/Fwrl2df8cx5foS7a)
-  - [Term Sheet](https://dojo4.bit.ai/docs/ogbG1Aaz93aEKELi)
+  - [Bylaws](./bylaws.md)
+  - [Membership Agreement](./membership-agreement.md)
+  - [Term Sheet](./term-sheet.md)
 
 The basic eligibility, privileges & responsibilities can be summarized
 as such:
@@ -13,7 +13,7 @@ as such:
 ## Eligibility
 
 *Excerpted from* [*the
-Bylaws*](https://dojo4.bit.ai/docs/PJwDaPQrHqtUcyqr)*:*
+Bylaws*](./bylaws.md)*:*
 
   - Eligible person shall have worked for the Cooperative on a part or
     full-time basis either as a partner, consultant, or contractor for
@@ -72,7 +72,7 @@ following questions when when evaluating potential Council Members:
 ## Privileges
 
 *Excerpted from* [*the
-Bylaws*](https://dojo4.bit.ai/docs/PJwDaPQrHqtUcyqr)*:*
+Bylaws*](./bylaws.md)*:*
 
   - Members are afforded one vote on any matter for which a vote by
     Class A Members may or is to be taken as prescribed in the
@@ -92,7 +92,7 @@ Bylaws*](https://dojo4.bit.ai/docs/PJwDaPQrHqtUcyqr)*:*
 
   - Find more information on these responsibilities and those of other
     roles in [Roles, Responsibilities & Job
-    Descriptions](https://dojo4.bit.ai/docs/MR6AvCGRKV9Hdlm6).
+    Descriptions](./roles.md).
   - Members must attend and participate in at least 30% of membership
     meetings, matters presented for electronic voting or actions
     proposed to be taken without a meeting.
