@@ -151,19 +151,17 @@
   - [Onboarding / How to spin up a
     project?](https://dojo4.bit.ai/docs/nLG3GrO3uHjSKoV4) @luke / @all /
     @Corey
-  - [Developer Environment
-    Checklist](https://dojo4.bit.ai/docs/XF51BkHpjWTgpPB9) @jeremy
-  - [Checklist of shit that every project
-    needs](https://dojo4.bit.ai/docs/w0Y1Qv4gK8aYx0VP) @derek
+  - [Developer Environment Checklist](.env-checklist.md) @jeremy
+  - [Checklist of shit that every project needs](./project-checklist.md) @derek
 
   
 
 ## **Tools**
 
-  - [GitHub](https://dojo4.bit.ai/docs/YcusOEeoO7XNztMy) @jeremy
-  - [Docker](https://dojo4.bit.ai/docs/kOGqakHQkxFvgtxD) @derek /
+  - [GitHub](./github.md) @jeremy
+  - [Docker](./docker.md) @derek /
     @jeremy
-  - [Application Stacks](https://dojo4.bit.ai/docs/mKms9SiZYGGWdQuB)
+  - [Application Stacks](./application-stack.md)
     @all
-  - [Deployment Platforms](https://dojo4.bit.ai/docs/9Pw9iHvr4NGRxFzg)
+  - [Deployment Platforms](./deployment-platforms.md)
     @jeremy
