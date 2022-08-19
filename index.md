@@ -15,8 +15,8 @@
   - Technical Approach
   - [Humans](https://dojo4.bit.ai/docs/W8n12taxmVPeOf5Z)
   - [Sanity](./sanity.md)
-  - [Community](https://dojo4.bit.ai/docs/PrDevHsnFoQV5OWF)
-  - [Generosity](https://dojo4.bit.ai/docs/RrBMQUJAASaGK2Vp)
+  - [Community](./community.md)
+  - [Generosity](./generosity.md)
   - [Code of Conduct](https://dojo4.bit.ai/docs/qXPJTssdWP82G566)
   - [Manifesto](https://dojo4.bit.ai/docs/GWJiALW1k57TwTbQ)
   - What else?
