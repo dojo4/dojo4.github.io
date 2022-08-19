@@ -72,7 +72,7 @@ with.*
 
 ### Documents & Agreements
 
-[**Redmine orientation**](https://dojo4.bit.ai/docs/i7VMnKMr1bdDY9zb)
+[**Redmine orientation**](./redmine.md)
 
   - <https://docs.google.com/document/d/1Lxqs20SOZwz3dY7f71AlT-gytqVYHKkpMqrsCtp8408/edit?usp=sharing>
   - <https://github.com/dojo4/projects2/blob/master/app/views/pages/orientation.html.erb>
@@ -139,7 +139,7 @@ Consider how to onboard someone with a blank new machine.
 
 We use GitHub for our primary source code repository. Depending on the
 client there could be a couple of different ways to configure this. See
-[GitHub](https://dojo4.bit.ai/docs/YcusOEeoO7XNztMy) for more dojo4
+[GitHub](./github.md) for more dojo4
 
 ### Project starts in Dojo4 organization
 
