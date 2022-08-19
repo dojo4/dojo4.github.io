@@ -17,8 +17,8 @@
   - [Sanity](./sanity.md)
   - [Community](./community.md)
   - [Generosity](./generosity.md)
-  - [Code of Conduct](https://dojo4.bit.ai/docs/qXPJTssdWP82G566)
-  - [Manifesto](https://dojo4.bit.ai/docs/GWJiALW1k57TwTbQ)
+  - [Code of Conduct](./code-ofconduct.md)
+  - [Manifesto](./manifesto.md)
   - What else?
 
   
@@ -34,51 +34,40 @@
 ## **Legal**
 
   - Colorado Limited Cooperative
-      - [Co-op Bylaws](https://dojo4.bit.ai/docs/PJwDaPQrHqtUcyqr)
+      - [Co-op Bylaws](./co-op-bylaws.md)
       - [Membership
-        Agreement](https://dojo4.bit.ai/docs/LlpHnYuonmvtNM7j)
+        Agreement](./membership-agreement.md)
       - [Term Sheet](https://dojo4.bit.ai/docs/ogbG1Aaz93aEKELi)
-  - [Mutual Nondisclosure
-    Agreement](https://dojo4.bit.ai/docs/m52H1QGcj22Z6gfa)
-  - [Master Services
-    Agreement](https://dojo4.bit.ai/docs/rrh7TK0WMLADC57A)
+  - [Mutual Nondisclosure Agreement](./Mutual-Nondisclosure-Agreement.md)
+  - [Master Services Agreement](./Master-Services-Agreement.md)
   - Templates
-      - [Statement of Work
-        Agreement](https://dojo4.bit.ai/docs/oDuATbGpQYxAxpb8)
-      - [Iterative SOW
-        Agreement](https://dojo4.bit.ai/docs/VwhCPUIwWJvFyW0u)
-      - [Subcontractor
-        Agreement](https://dojo4.bit.ai/docs/11MZ7lkOcCX98MDF)
-      - [Deep Dive
-        Agreement](https://dojo4.bit.ai/docs/qZ13OCP86TvoMKqr)
+      - [Statement of Work Agreement](./Statement-of-Work-Agreement.md)
+      - [Iterative SOW Agreement](./Iterative-SOW-Agreement.md)
+      - [Subcontractor Agreement](./Subcontractor-Agreement.md)
+      - [Deep Dive Agreement](./Deep-Dive-Agreement.md)
 
   
 
 ## **Policies**
 
-  - [People Policy](https://dojo4.bit.ai/docs/L2BuELIUsfyqJ6UA)
-  - [Environmental
-    Policy](https://github.com/dojo4/policy/blob/master/environmental_policy.md)
-  - [Ethical Marketing Client Engagement
-    Policy](https://github.com/dojo4/policy/blob/master/ethical-marketing-client-engagement-policy.md)
-  - [Family-Friendly Workplace
-    Manifesto](https://dojo4.bit.ai/docs/QuGUFPoQJ2EwveHB)
-  - [Community Policy](https://dojo4.bit.ai/docs/PrDevHsnFoQV5OWF)
-  - [Parental Leave](https://dojo4.bit.ai/docs/AZV7LYHp9GckKYOK)
+  - [People Policy](./People-Policy.md)
+  - [Environmental Policy](./environmental_policy.md)
+  - [Ethical Marketing Client Engagement Policy](./ethical-marketing-client-engagement-policy.md)
+  - [Family-Friendly Workplace Manifesto](./Family-Friendly-Workplace-Manifesto.md)
+  - [Community Policy](./community.md)
+  - [Parental Leave](./parental-leave.md)
 
   
 
 ## **Roles and Responsibilities**
 
-  - [Roles &
-    Responsibilities](https://dojo4.bit.ai/docs/MR6AvCGRKV9Hdlm6)
+  - [Roles & Responsibilities](./Roles-&-Responsibilities.md)
 
   
 
 ## **Co-op Protocols and Processes**
 
-  - [Co-op member eligibility, privileges &
-    responsibilities](https://dojo4.bit.ai/docs/r8zGcImHW08upb5i)
+  - [Co-op member eligibility, privileges & responsibilities](https://dojo4.bit.ai/docs/r8zGcImHW08upb5i)
   - [Voting protocol](https://dojo4.bit.ai/docs/LnTgjNDuk0kMvI1A)
 
   
