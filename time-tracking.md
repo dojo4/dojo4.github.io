@@ -14,7 +14,7 @@ Log the real hours you spend; do not adjust your hours anticipating some
 outcome. Work with dojo4’s business team to handle any disconnect
 between hours and value. You may use whatever system you prefer to track
 time, but *in order for it to be payable, it must be recorded in*
-[*Redmine*](https://dojo4.bit.ai/docs/i7VMnKMr1bdDY9zb). 
+[*Redmine*](./redmine.md). 
 
 ### Here’s how you do it :
 
@@ -41,7 +41,7 @@ time, but *in order for it to be payable, it must be recorded in*
 ### Invoicing Protocol for Contractors
 
 All contractor hours are attached to tickets in
-[Redmine](https://dojo4.bit.ai/docs/i7VMnKMr1bdDY9zb). Tracking your
+[Redmine](./redmine.md). Tracking your
 time this way replaces the need for you to invoice dojo4. We simply run
 reports for each pay period (the 15th and last day of the month) and pay
 you for the hours you have logged since our last pay period. If you find
