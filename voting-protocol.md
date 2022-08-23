@@ -7,8 +7,8 @@ from* [*the Bylaws*](https://dojo4.bit.ai/docs/PJwDaPQrHqtUcyqr)*:*
 
 Where in-person or electronically, members may vote on all matters that
 require a member vote - see below and [Member
-Responsibilities](https://dojo4.bit.ai/docs/r8zGcImHW08upb5i) and [the
-Bylaws](https://dojo4.bit.ai/docs/PJwDaPQrHqtUcyqr), in the following
+Responsibilities](./member-responsibilities.md) and [the
+Bylaws](./bylaws.md), in the following
 manner:
 
   - A simply stated yay or nay. This binary voting system is used when
