@@ -41,9 +41,9 @@
   - [Mutual Nondisclosure Agreement](./Mutual-Nondisclosure-Agreement.md)
   - [Master Services Agreement](./Master-Services-Agreement.md)
   - Templates
-      - [Statement of Work Agreement](./sow-agreement.md)
-      - [Iterative SOW Agreement](./iterative-sow-agreement.md)
-      - [Subcontractor Agreement](./subcontractor-Agreement.md)
+      - [Statement of Work Agreement](./sow.md)
+      - [Iterative SOW Agreement](./iterative-sow.md)
+      - [Subcontractor Agreement](./subcontractor-agreement.md)
       - [Deep Dive Agreement](./deep-dive-agreement.md)
 
   
