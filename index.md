@@ -38,7 +38,7 @@
       - [Membership
         Agreement](./membership-agreement.md)
       - [Term Sheet](./term-sheet.md)
-  - [Mutual Nondisclosure Agreement](./Mutual-Nondisclosure-Agreement.md)
+  - [Mutual Nondisclosure Agreement](./mnda.md)
   - [Master Services Agreement](./msa.md)
   - Templates
       - [Statement of Work Agreement](./sow.md)
