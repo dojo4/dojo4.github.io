@@ -39,7 +39,7 @@
         Agreement](./membership-agreement.md)
       - [Term Sheet](./term-sheet.md)
   - [Mutual Nondisclosure Agreement](./Mutual-Nondisclosure-Agreement.md)
-  - [Master Services Agreement](./Master-Services-Agreement.md)
+  - [Master Services Agreement](./msa.md)
   - Templates
       - [Statement of Work Agreement](./sow.md)
       - [Iterative SOW Agreement](./iterative-sow.md)
