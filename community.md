@@ -8,7 +8,7 @@ we don't do business behind closed doors and our commitment of work-life
 flexibility means that the barriers between our work and the other parts
 of our lives are permeable. Friends, children and pets are welcome in
 our office not as a perk but as a mainstay of how we do business. We
-maintain* [*office rituals*](https://dojo4.bit.ai/docs/qEgAbsM1bC0L7jrq)
+maintain* [*office rituals*](./office-rituals.md)
 *that make it possible to accommodate the concentration needed to do our
 work and the interactions we need to be in connection with each other.
 This is how we create community.*
