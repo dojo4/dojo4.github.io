@@ -19,7 +19,7 @@ transparent, tools such as Redmine and Slack.
 
 ### **Slack**
 
-See /slack. Dojo4 uses Slack to communicate with each other throughout
+See [Slack](./slack.md). Dojo4 uses Slack to communicate with each other throughout
 the day. Please be sure to be in Slack during working hours and whenever
 you are doing Dojo4 work. Please use Slack for dojo4 communications
 throughout the day. 
