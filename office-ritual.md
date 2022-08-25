@@ -2,7 +2,7 @@ The Dojo4 offices have been open to friends and family for co-working
 and socializing since the company was founded in 2009. We operationalize
 the respect we have for people being able to do their work with focus
 and welcome the connection that comes by inviting [our
-community](https://dojo4.bit.ai/docs/PrDevHsnFoQV5OWF) into the inner
+community](./community.md) into the inner
 workings of our business.
 
 *This key hangs on the wall by the front door to our office at 2030 17th
@@ -18,7 +18,7 @@ St., Boulder, CO 80304:*
 cadence*](https://little-startup-handbook.dojo4.com/find-a-rythm/) *of*
 [*meetings*](https://little-startup-handbook.dojo4.com/meetings/) *to
 help provide rhythm and reliability to our*
-[*communication*](https://dojo4.bit.ai/docs/Bxydnl5HTPtYOSsN)*.*
+[*communication*](./internal-comms.md)*.*
 
 ### **Daily standup**
 
