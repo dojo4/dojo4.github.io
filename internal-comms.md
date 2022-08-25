@@ -31,7 +31,7 @@ throughout the day. 
 
 ### **Redmine**
 
-Use See [/Redmine](https://dojo4.bit.ai/docs/i7VMnKMr1bdDY9zb).
+See [Redmine](./redmine.md).
 
   
 
