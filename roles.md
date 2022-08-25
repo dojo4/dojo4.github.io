@@ -5,7 +5,7 @@ or employees.
 
 ### Member Responsibilities
 
-  - To [vote](.voting-protocols.md) on the
+  - To [vote](./voting-protocols.md) on the
     following:
       - Hiring and firing clients / new projects
       - Hiring and firing contractors
