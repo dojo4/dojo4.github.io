@@ -1,6 +1,6 @@
 # Docker
 
-The dojo4 approach to Docker development...
+The Dojo4 approach to Docker development...
 
 # Container Background
 
