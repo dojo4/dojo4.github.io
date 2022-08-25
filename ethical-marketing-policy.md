@@ -1,6 +1,6 @@
 *At Dojo4 we strive to understand problems before proposing solutions.*
 
-It is rare that we'll work with a client to build what they came in the door asking for. When someone comes to us with a solution, we always push back in order to more comprehensively understand the problem they are trying to solve. We ask why they might have arrived at a particular solution and dig into what other solutions might exist. Our team works to understand the business problem behind a proposed technical solution and the brand and ethos behind a particular set of visual messaging.(See: [Dojo4 Product Articulation](https://dojo4.com/work/services/product_articulation)
+It is rare that we'll work with a client to build what they came in the door asking for. When someone comes to us with a solution, we always push back in order to more comprehensively understand the problem they are trying to solve. We ask why they might have arrived at a particular solution and dig into what other solutions might exist. Our team works to understand the business problem behind a proposed technical solution and the brand and ethos behind a particular set of visual messaging. (See: [Dojo4 Product Articulation](https://dojo4.com/work/services/product_articulation))
 
 
 The Dojo4 policy on ethical marketing and consumer engagement is designed to reflect the operating principles of our business:
