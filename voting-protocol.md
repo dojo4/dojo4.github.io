@@ -1,5 +1,5 @@
 *The following voting protocols for co-op members are taken, in part, of
-from* [*the Bylaws*](https://dojo4.bit.ai/docs/PJwDaPQrHqtUcyqr)*:*
+from* [*the Bylaws*](./bylaws)*:*
 
   
 
