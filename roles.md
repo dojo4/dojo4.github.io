@@ -1,11 +1,11 @@
-## Co-op Member
+## Co-op Member Roles
 
 Dojo4 co-op members are co-owners of Dojo4 and may also be contractors
 or employees.
 
 ### Member Responsibilities
 
-  - To [vote](https://dojo4.bit.ai/docs/LnTgjNDuk0kMvI1A) on the
+  - To [vote](.voting-protocols.md) on the
     following:
       - Hiring and firing clients / new projects
       - Hiring and firing contractors
@@ -25,7 +25,7 @@ or employees.
     your coworker’s plates. 
   - Be generous with your help.
   - Also outlined here, [Member
-    Responsibilities](https://dojo4.bit.ai/docs/r8zGcImHW08upb5i).
+    Responsibilities](./eligibility.md).
   - Treat everyone who encounters Dojo4 with respect and kindness.
   - Take responsibility for your own professional development -- seek
     opportunities to grow your skills and make better work product. 
@@ -36,19 +36,19 @@ or employees.
   - Contribute to internal projects and endeavors.
   - Make things and put them in the public domain. Talk about them.
 
-  
+# Roles 
 
 ## Contractor
 
 Dojo4 contractors are hired to work on Dojo4 client projects according
 to the terms of the Dojo4 [subcontractor
-agreement](https://dojo4.bit.ai/docs/11MZ7lkOcCX98MDF). Expectations
+agreement](./subcontractor-agreement.md). Expectations
 regarding their responsibilities are listed
 [below](https://docs.google.com/document/d/1YTMvBKnfR7WzJ-ZIiiwaJkyiqNpTYh8GBVP7DLTE1FE/edit#heading=h.ndsnvimy1s4p). 
 
 ### Contractor Privileges and Responsibilities
 
-The Dojo4 [community](https://dojo4.bit.ai/docs/PrDevHsnFoQV5OWF) has
+The Dojo4 [community](./community.md) has
 always been comprised of independent self-starters who hold themselves
 to a high degree of excellence in their field and stand out as creatives
 and creative problem solvers. We aim to make Dojo4 a home-away-from-home
@@ -81,9 +81,9 @@ your Dojo4 work, we ask that you:
   - Be generous with your help.
   - Treat everyone who encounters Dojo4 with respect and kindness.
   - Review Dojo4’s [Code of
-    Conduct](https://dojo4.bit.ai/docs/qXPJTssdWP82G566), [People
-    Policy](https://dojo4.bit.ai/docs/L2BuELIUsfyqJ6UA) & [Environmental
-    Policy](https://dojo4.bit.ai/docs/uEZTcyoPNevWmuos) in this handbook
+    Conduct](./code-of-conduct.md), [People
+    Policy](./people-policy.md) & [Environmental
+    Policy](./environmental-policy.md) in this handbook
     and conduct yourself accordingly when acting as a member of Dojo4.
   - Take ownership of your work and deliver it to the satisfaction of
     its budgetary stakeholders. 
@@ -98,15 +98,15 @@ payroll. 
 
 ## Project Lead
 
-A [Project Lead](https://dojo4.bit.ai/docs/9Kubq1l8gSQuMzjn) is chosen
+A [Project Lead](./project-lead.md) is chosen
 for each Dojo4 project and is responsible for the health and success of
 that project. They are responsible for making decisions that support the
 well-being of their project, with support from the Technical and
 Managing Director. They choose who will work on the project and assign
 tasks accordingly. 
 
-See [here](https://dojo4.bit.ai/docs/9Kubq1l8gSQuMzjn) for more info on
-[Leading a Project](https://dojo4.bit.ai/docs/9Kubq1l8gSQuMzjn) at
+See [here](./project-lead.md) for more info on
+[Leading a Project](./project-lead.md) at
 Dojo4.
 
 ## Technical Director / CTO
