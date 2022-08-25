@@ -1,5 +1,5 @@
 By participating in the Dojo4
-[community](https://dojo4.bit.ai/docs/PrDevHsnFoQV5OWF), as either a
+[community](./community.md), as either a
 member or guest, you agree to ...
 
   - treat whomever you encounter with respect and kindness
