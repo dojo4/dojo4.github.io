@@ -31,8 +31,8 @@ Our instance of the tool lives here: <https://projects.dojo4.com/>.
 
 As much as we try to consolidate our project communication and tracking
 to Redmine, we ask clients to do the same. The [Client Redmine
-Orientation](https://dojo4.bit.ai/docs/uQKOXMWTOI1SXtYP) is
-[here](https://dojo4.bit.ai/docs/uQKOXMWTOI1SXtYP).
+Orientation](./client-comms.md) is
+[here](./client-comms.md).
 
 ![](https://d2eslrut6bvw18.cloudfront.net/v2/39196/contents/0c9dEQLgwoaVCXgK/mw1920_login1-lg.png)
 
