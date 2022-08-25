@@ -1,6 +1,6 @@
 Whereas being parents or caretakers, having a family, is something that
 we should be able to celebrate and have pride in at work, we declare
-this **Family-Friendly Workplace Manifesto**. Having a family provides
+this [**Family-Friendly Workplace Manifesto**](https://www.dojo4.com/blog/family-friendly-workplace-manifesto-now-more-than-ever). Having a family provides
 joy and challenge. It should not be something that anyone feels the need
 to hide, justify, explain away or be embarrassed about.
 
