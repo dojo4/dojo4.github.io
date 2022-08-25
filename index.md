@@ -158,7 +158,7 @@
   - [GitHub](./github.md) @jeremy
   - [Docker](./docker.md) @derek /
     @jeremy
-  - [Application Stacks](./application-stack.md)
+  - [Application Stacks](./application-stacks.md)
     @all
   - [Deployment Platforms](./deployment-platforms.md)
     @jeremy
