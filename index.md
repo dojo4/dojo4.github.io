@@ -50,7 +50,7 @@
 
 ## **Policies**
 
-  - [People Policy](./People-Policy.md)
+  - [People Policy](./people-policy.md)
   - [Environmental Policy](./environmental_policy.md)
   - [Ethical Marketing Client Engagement Policy](./ethical-marketing-policy.md)
   - [Family-Friendly Workplace Manifesto](./Family-Friendly-Workplace-Manifesto.md)
