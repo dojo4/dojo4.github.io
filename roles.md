@@ -98,15 +98,15 @@ payroll. 
 
 ## Project Lead
 
-A [Project Lead](./project-lead.md) is chosen
+A [Project Lead](./leading-a-project.md) is chosen
 for each Dojo4 project and is responsible for the health and success of
 that project. They are responsible for making decisions that support the
 well-being of their project, with support from the Technical and
 Managing Director. They choose who will work on the project and assign
 tasks accordingly. 
 
-See [here](./project-lead.md) for more info on
-[Leading a Project](./project-lead.md) at
+See [here](./leading-a-project.md) for more info on
+[Leading a Project](./leading-a-project.md) at
 Dojo4.
 
 ## Technical Director / CTO
