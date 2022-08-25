@@ -1,4 +1,4 @@
-Redmine is an open-source, flexible project management web application.
+[Redmine](https://redmine.org/) is an open-source, flexible project management web application.
 Written using Ruby on Rails framework, it is cross-platform and
 cross-database.
 
