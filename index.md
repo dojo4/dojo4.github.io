@@ -17,7 +17,7 @@
   - [Sanity](./sanity.md)
   - [Community](./community.md)
   - [Generosity](./generosity.md)
-  - [Code of Conduct](./code-ofconduct.md)
+  - [Code of Conduct](./code-of-conduct.md)
   - [Manifesto](./manifesto.md)
   - What else?
 
