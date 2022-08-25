@@ -7,7 +7,7 @@ from* [*the Bylaws*](./bylaws)*:*
 
 Where in-person or electronically, members may vote on all matters that
 require a member vote - see below and [Member
-Responsibilities](./member-responsibilities.md) and [the
+Responsibilities](./eligibility.md) and [the
 Bylaws](./bylaws.md), in the following
 manner:
 
