@@ -9,7 +9,7 @@ efficient and smooth as possible...
 
 ## Project management and communication
 
-We use [Redmine](https://www.redmine.org/) as our online project
+We use [Redmine](./redmine.md) as our online project
 management software. It allows us and our clients to create and manage
 the tasks that make up the structure of each project. We do this using
 *tickets* called *issues*. Each issue is a task or to-do, and anyone can
