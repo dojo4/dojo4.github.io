@@ -13,7 +13,7 @@
 # **Special Sauce**
 
   - Technical Approach
-  - [Humans](https://dojo4.bit.ai/docs/W8n12taxmVPeOf5Z)
+  - [Humans](./humans.md)
   - [Sanity](./sanity.md)
   - [Community](./community.md)
   - [Generosity](./generosity.md)
