@@ -43,7 +43,7 @@ stick with it because it's a flexible, free and customizeable open
 sourced solution. We've built custom integrations with some of our other
 tools, like Freshbooks and Flowdock. For a detailed description and
 how-to-use, please see the section on
-[Redmine](https://dojo4.bit.ai/docs/i7VMnKMr1bdDY9zb).
+[Redmine](./redmine).
 
   
 
