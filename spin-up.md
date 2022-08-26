@@ -29,7 +29,7 @@ thoughts: *[*https://dojo4.typeform.com/to/KzvasC*](https://dojo4.typeform.com/
 it for tasking, communication and documentation- and you’ll have full
 access but if email is easier, use that and we’ll put your
 communications in the tool ourselves. Here’s a
-mini-orientation: *[*https://bit.ly/3ezmGoy*](https://bit.ly/3ezmGoy)
+[mini-orientation](./client-comms.md).
 
 *Let me know if there’s anyone else at XXXX that we should add to the
 project or should receive the contracts for review. And just let me know
@@ -51,7 +51,7 @@ internally at dojo4 - we use it for tasking, communication and
 documentation. You’ll have full access and visibility into our workflow
 and activity. However, if email is easier, use that and we’ll put your
 communications in the tool ourselves. Here’s a
-mini-orientation: *[*https://projects.dojo4.com/pages/orientation*](https://projects.dojo4.com/pages/orientation)*.
+[mini-orientation](./client-comms.md)*.
 If any of you does not need to be involved at this level, please just
 ignore the invitation to the project tool. And if there is anyone else
 from the XXX team that should be added, please let me know.*
@@ -114,7 +114,7 @@ If a system the project is connected to has a write-once -
 can't-change-it field to identify the project, it should be this
 `kebab-case-slug-for-the-project`. This slug will be used when [Setting
 up
-Redmine](https://www.notion.so/Setting-up-Redmine-for-a-New-Project-cba3725202ac41ebac5787c04c34e3c8)
+Redmine](./redmine).
 
 ## 1Password
 
