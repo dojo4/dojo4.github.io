@@ -97,7 +97,7 @@
   - [Sales](./sales.md)
   - [Office Ritual](./office-ritual.md)
   - Money
-      - [Time Tracking]((./time-tracking.md)
+      - [Time Tracking](./time-tracking.md)
       - [Invoicing](./invoicing.md)
       - What else? @Corey
 
