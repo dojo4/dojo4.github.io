@@ -221,7 +221,21 @@ GitHub Organization. The steps for the client are as follows:
 
 ## Freshbooks
 
-\[Corey / Jetha need to fill out the rest of this section\]
+Create a new project in Freshbooks for every new project we start- this way clients can be invoiced per project. If the project is associated with a new client, a New Client will have to be created in the system before you can create a New Project for that client. 
+
+To create a New Client:
+  - Log in to [Freshbooks](https://my.freshbooks.com/) using the Dojo4 login (found in [1Password](./biz-tools.md)).
+  - Select Clients from the lefthand sidebar menu.
+  - Click on the big green New Client button in the top righthand corner. 
+  - Enter the client's info and save. 
+
+As long as there is a client to assign the project to, a new project can be created. 
+
+To create a New Project:
+  - Make sure you are logged in to [Freshbooks](https://my.freshbooks.com/) using the Dojo4 login (found in [1Password](./biz-tools.md)).
+  - Select Projects from the lefthand sidebar menu.
+  - Select which kind of new project you want to create from the pull down manu on the big green Create New... button in the top righthand corner. Dojo4 tends to do Hourly Projects, instead of Flat Rate Projects. 
+  - Enter project info and assign it to a client and save. The format we use for naming projects most usually includes the name of the client and a 1-2 word decription of the project, all in lowercase, and with dashes between words. E.g. lifespark-family-app or heavybit-sanity-site. 
 
 ### Sync Freshbooks and Redmine projects
 
