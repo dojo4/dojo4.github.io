@@ -145,8 +145,7 @@
     @all
   - [Deployment Workflow](./deployment-workflow.md)
     @jeremy
-  - [Onboarding / How to spin up a
-    project?](./spin-up.md) @luke / @all /
+  - [Onboarding / Spin Up](./spin-up.md) @luke / @all /
     @Corey
   - [Developer Environment Checklist](./env-checklist.md)  @jeremy
   - [Checklist of shit that every project needs](./project-checklist.md) @derek
