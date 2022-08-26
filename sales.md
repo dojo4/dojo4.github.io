@@ -1,5 +1,5 @@
 *Be sure to also see how to* [*estimate a
-project*](https://dojo4.bit.ai/docs/LdCacSj8yYadmIiN)*.*
+project*](./estimating.md)*.*
 
 *Based on original by Ara Howard @drawohara:*
 [*https://github.com/dojo4/dojo4/edit/master/docs/how-tos/sell-a-project.md*](https://github.com/dojo4/dojo4/edit/master/docs/how-tos/sell-a-project.md)
@@ -35,7 +35,7 @@ that actually solve your problem?”
 
 Once you understand the problem, do your research and build an estimate.
 See **how to** [**estimate a
-project**](https://dojo4.bit.ai/docs/LdCacSj8yYadmIiN).
+project**](./estimating.md).
 
 Here it bears repeating: **document everything in Redmine in**
 [**https://projects.dojo4.com/projects/sales**](https://projects.dojo4.com/projects/sales).
@@ -84,7 +84,7 @@ of. Sales at Dojo4 are normally just exchanging 'we can do' for 'you
 need to do' in the context of a running project. For Dojo4 sales this
 should should always represent *acting in the client's best interest* to
 see *in advance*, what [your personal professional
-capacity](https://dojo4.bit.ai/docs/9Kubq1l8gSQuMzjn) allows you to see
+capacity](./leading-a-project) allows you to see
 - that the prospective (or existing) client does not yet see.
 
   
