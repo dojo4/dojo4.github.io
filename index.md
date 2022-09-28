@@ -90,12 +90,14 @@
 ## **Human Protocols**
 
   - [Member / Contractor Handbook](https://github.com/dojo4/policy/blob/master/hr.md)
-  - [Ops Bible @Jetha - also see Business Relationships](https://docs.google.com/document/d/1E6l0-SMJu3GN7ymCCEkxhJn6_kMbUijbKjqfOTme2-A/edit?usp=sharing)
+  - [Ops Bible - also see Business Relationships](https://docs.google.com/document/d/1E6l0-SMJu3GN7ymCCEkxhJn6_kMbUijbKjqfOTme2-A/edit?usp=sharing)
   - [Internal Communication](./internal-comms.md)
   - [Client Communication](./client-comms.md)
   - [Community Engagement](./community.md)
   - [Sales](./sales.md)
   - [Office Ritual](./office-ritual.md)
+  - [Client Onboarding](client-onboarding.md)
+  - [Contractor / Employee Onboarding](people-onboarding.md)
   - Money
       - [Time Tracking](./time-tracking.md)
       - [Invoicing](./invoicing.md)
@@ -145,8 +147,7 @@
     @all
   - [Deployment Workflow](./deployment-workflow.md)
     @jeremy
-  - [Onboarding / Spin Up](./spin-up.md) @luke / @all /
-    @Corey
+  - [Spin Up](./spin-up.md) @luke / @all
   - [Developer Environment Checklist](./env-checklist.md)  @jeremy
   - [Checklist of shit that every project needs](./project-checklist.md) @derek
 
