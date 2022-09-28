@@ -96,12 +96,11 @@
   - [Community Engagement](./community.md)
   - [Sales](./sales.md)
   - [Office Ritual](./office-ritual.md)
-  - [Client Onboarding](client-onboarding.md)
-  - [Contractor / Employee Onboarding](people-onboarding.md)
+  - [Client Onboarding](./client-onboarding.md)
+  - [Contractor / Employee On- and Off-boarding](./people-onboarding.md)
   - Money
       - [Time Tracking](./time-tracking.md)
       - [Invoicing](./invoicing.md)
-      - What else? @Corey
 
   
 
