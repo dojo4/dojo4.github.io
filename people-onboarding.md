@@ -1,4 +1,4 @@
-#Onboarding 
+# Onboarding 
 
 - Create Contract in Contractually [Subcontractor Agreement](./subcontractor-agreement.md), invite & sign.
 - Get full legal name, address, social security number (or if billing us as a business, name and EIN number), birthday, bank routing and account # and add to Justworks (formerly Zenpayroll), 
@@ -13,7 +13,7 @@
 - Have them write and publish bio (& photo) at /team.
 - Send welcome letter with link to all Dojo4 policies and protocols.
 
-#Offboarding 
+# Offboarding 
 
 - For W2 > Employment Severance Agreement
 - Offboard in Justworks.
