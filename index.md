@@ -23,8 +23,7 @@
 
   - Colorado Limited Cooperative
       - [Co-op Bylaws](./bylaws.md)
-      - [Membership
-        Agreement](./membership-agreement.md)
+      - [Membership Agreement](./membership-agreement.md)
       - [Term Sheet](./term-sheet.md)
   - [Mutual Nondisclosure Agreement](./mnda.md)
   - [Master Services Agreement](./msa.md)
@@ -89,14 +88,12 @@
 
   - [Redmine](./redmine.md)
   - [Operations / Business Tools](./biz-tools.md)
-  - [Google Tools](./google-tools.md)
-    @luke/@corey
+  - [Google Tools](./google-tools.md) @luke/@corey
 
 
 ## **Business Relationships**
 
-  - See [Ops
-    Bible](https://docs.google.com/document/d/1E6l0-SMJu3GN7ymCCEkxhJn6_kMbUijbKjqfOTme2-A/edit?usp=sharing)
+  - See [Ops Bible](https://docs.google.com/document/d/1E6l0-SMJu3GN7ymCCEkxhJn6_kMbUijbKjqfOTme2-A/edit?usp=sharing)
     maintained by Ops Manager / Director
 
 
@@ -105,35 +102,27 @@
 
 ## **Philosophy**
 
-  - [Technology Philosophy](./tech-philosophy.md)
-    @derek
+  - [Technology Philosophy](./tech-philosophy.md) @derek
   - [Antidote to Tech](http://antidoteto.tech)
 
 
 ## **Human Protocols**
 
-  - [Project Management](./project-management.md)
-    @derek
-  - [Requirements Gathering](./requirements-gathering.md)
-    @derek
+  - [Project Management](./project-management.md) @derek
+  - [Requirements Gathering](./requirements-gathering.md) @derek
   - [Estimating](./estimating.md)
   - [Leading a Project](leading-a-project.md)
   - [Design Workflow](./design-workflow.md) @luke
-  - [Development Workflow](./dev-workflow.md)
-    @all
-  - [Deployment Workflow](./deployment-workflow.md)
-    @jeremy
+  - [Development Workflow](./dev-workflow.md) @all
+  - [Deployment Workflow](./deployment-workflow.md) @jeremy
   - [Spin Up](./spin-up.md) @luke / @all
-  - [Developer Environment Checklist](./env-checklist.md)  @jeremy
+  - [Developer Environment Checklist](./env-checklist.md) @jeremy
   - [Checklist of shit that every project needs](./project-checklist.md) @derek
 
 
 ## **Tools**
 
   - [GitHub](./github.md) @jeremy
-  - [Docker](./docker.md) @derek /
-    @jeremy
-  - [Application Stacks](./application-stacks.md)
-    @all
-  - [Deployment Platforms](./deployment-platforms.md)
-    @jeremy
+  - [Docker](./docker.md) @derek / @jeremy
+  - [Application Stacks](./application-stacks.md) @all
+  - [Deployment Platforms](./deployment-platforms.md) @jeremy
