@@ -1,14 +1,10 @@
-![](https://d2eslrut6bvw18.cloudfront.net/v2/39196/contents/em45qTbdWS0KWNAI/mw1920_linkedin--2020-04-27.png)
+![](https://d2eslrut6bvw18.cloudfront.net/v2/39196/contents/em45qTbdWS0KWNAI/mw1920_linkedin--2020-04-27.png){: .home-logo}
 
 # **Dojo4 Playbook**
 
 *This is how we do it yall.*
 
-  
-
 -----
-
-  
 
 # **Special Sauce**
 

@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+hr {
+  clear: both;
+}
+
+.home-logo {
+  float: right;
+  max-width: 15rem;
+  margin: 0 2rem;
+}
