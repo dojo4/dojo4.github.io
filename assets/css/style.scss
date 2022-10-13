@@ -3,12 +3,44 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: #edd7bf;
+
+  @media screen and (min-width: 961px) {
+    .wrapper {
+      width: 920px;
+    }
+    header, footer {
+      width: 330px;
+    }
+    section {
+      width: 550px
+    }
+  }
+}
+h1 {
+  strong {
+    color: purple;
+  }
+}
+
+h2 {
+  strong {
+    color: teal;
+  }
+}
+
 hr {
   clear: both;
+}
+
+h1#site-title > a {
+  color: #666;
+  font-size: 48px;
 }
 
 .home-logo {
   float: right;
   max-width: 15rem;
-  margin: 0 2rem;
+  margin: 2rem;
 }
