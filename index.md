@@ -8,14 +8,13 @@
 
 # **Special Sauce**
 
-  - Technical Approach
+  - [Technical Approach](./tech-philosophy.md) @derek
   - [Humans](./humans.md)
   - [Sanity](./sanity.md)
   - [Community](./community.md)
   - [Generosity](./generosity.md)
   - [Code of Conduct](./code-of-conduct.md)
   - [Manifesto](./manifesto.md)
-  - What else?
   
 # **Governance**
 
@@ -62,7 +61,6 @@
   - [Permaculture](./permaculture.md)
   - [Zebra Network](./zebra.md)
   - [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/)
-  - What else?
 
 
 # **Operations**
