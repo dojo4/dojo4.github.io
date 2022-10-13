@@ -3,10 +3,12 @@
 See [Client Onboarding Admin](./client-onboarding.md)
 
 *See also:*
-[*https://projects.dojo4.com/documents/499*](https://projects.dojo4.com/documents/499)  
+[*https://projects.dojo4.com/documents/499*](https://projects.dojo4.com/documents/499) 
 
 
 # Technical Onboarding
+
+**work-in-progress...**
 
 ## Naming
 
