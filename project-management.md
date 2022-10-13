@@ -1,3 +1,3 @@
 ## Managing a project with Dojo4
 
-// TODO
+**work-in-progress - coming soon...**
