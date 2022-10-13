@@ -18,6 +18,10 @@ body {
     }
   }
 }
+
+a:hover, a:focus {
+  font-weight: normal;
+}
 h1 {
   strong {
     color: purple;
@@ -36,11 +40,15 @@ hr {
 
 h1#site-title > a {
   color: #666;
-  font-size: 48px;
+  font-size: 32px;
 }
 
 .home-logo {
   float: right;
   max-width: 15rem;
   margin: 2rem;
+}
+
+footer > p {
+  font-size: 11px;
 }
