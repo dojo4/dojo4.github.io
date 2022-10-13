@@ -2,7 +2,7 @@
 
 **work-in-progress - coming soon...**
 
-dojo4 uses Google Workspace for Biz?
+Dojo4 uses Google Workspace for biz
 
   - Meet
       - why we use meet vs zoom?
