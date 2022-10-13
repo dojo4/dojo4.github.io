@@ -20,16 +20,8 @@
   - [Code of Conduct](./code-of-conduct.md)
   - [Manifesto](./manifesto.md)
   - What else?
-
   
-
-  
-
-  
-
 # **Governance**
-
-  
 
 ## **Legal**
 
@@ -46,7 +38,6 @@
       - [Subcontractor Agreement](./subcontractor-agreement.md)
       - [Deep Dive Agreement](./deep-dive-agreement.md)
 
-  
 
 ## **Policies**
 
@@ -57,20 +48,17 @@
   - [Community Policy](./community.md)
   - [Parental Leave](./parental-leave.md)
 
-  
 
 ## **Roles and Responsibilities**
 
   - [Roles & Responsibilities](./roles.md)
 
-  
 
 ## **Co-op Protocols and Processes**
 
   - [Co-op member eligibility, privileges & responsibilities](./eligibility.md)
   - [Voting protocol](./voting-protocol.md)
 
-  
 
 ## **Wells We Draw From**
 
@@ -81,11 +69,9 @@
   - [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/)
   - What else?
 
-  
 
 # **Operations**
 
-  
 
 ## **Human Protocols**
 
@@ -102,7 +88,6 @@
       - [Time Tracking](./time-tracking.md)
       - [Invoicing](./invoicing.md)
 
-  
 
 ## **Tools**
 
@@ -111,7 +96,6 @@
   - [Google Tools](./google-tools.md)
     @luke/@corey
 
-  
 
 ## **Business Relationships**
 
@@ -119,11 +103,9 @@
     Bible](https://docs.google.com/document/d/1E6l0-SMJu3GN7ymCCEkxhJn6_kMbUijbKjqfOTme2-A/edit?usp=sharing)
     maintained by Ops Manager / Director
 
-  
 
 # **Technology**
 
-  
 
 ## **Philosophy**
 
@@ -131,7 +113,6 @@
     @derek
   - [Antidote to Tech](http://antidoteto.tech)
 
-  
 
 ## **Human Protocols**
 
@@ -150,7 +131,6 @@
   - [Developer Environment Checklist](./env-checklist.md)  @jeremy
   - [Checklist of shit that every project needs](./project-checklist.md) @derek
 
-  
 
 ## **Tools**
 
