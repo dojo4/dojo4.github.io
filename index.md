@@ -8,7 +8,7 @@
 
 # **Special Sauce**
 
-  - [Technical Approach](./tech-philosophy.md) @derek
+  - [Technical Approach](./tech-philosophy.md)
   - [Humans](./humans.md)
   - [Sanity](./sanity.md)
   - [Community](./community.md)
@@ -100,7 +100,7 @@
 
 ## **Philosophy**
 
-  - [Technology Philosophy](./tech-philosophy.md) @derek
+  - [Technology Philosophy](./tech-philosophy.md)
   - [Antidote to Tech](http://antidoteto.tech)
 
 
