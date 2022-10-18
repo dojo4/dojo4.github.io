@@ -86,7 +86,7 @@
 
   - [Redmine](./redmine.md)
   - [Operations / Business Tools](./biz-tools.md)
-  - [Google Tools](./google-tools.md) @luke/@corey
+  - [Google Tools](./google-tools.md)
 
 
 ## **Business Relationships**
@@ -106,21 +106,21 @@
 
 ## **Human Protocols**
 
-  - [Project Management](./project-management.md) @derek
-  - [Requirements Gathering](./requirements-gathering.md) @derek
+  - [Project Management](./project-management.md)
+  - [Requirements Gathering](./requirements-gathering.md) 
   - [Estimating](./estimating.md)
   - [Leading a Project](leading-a-project.md)
-  - [Design Workflow](./design-workflow.md) @luke
-  - [Development Workflow](./dev-workflow.md) @all
-  - [Deployment Workflow](./deployment-workflow.md) @jeremy
-  - [Spin Up](./spin-up.md) @luke / @all
-  - [Developer Environment Checklist](./env-checklist.md) @jeremy
-  - [Checklist of shit that every project needs](./project-checklist.md) @derek
+  - [Design Workflow](./design-workflow.md) 
+  - [Development Workflow](./dev-workflow.md)
+  - [Deployment Workflow](./deployment-workflow.md) 
+  - [Spin Up](./spin-up.md) 
+  - [Developer Environment Checklist](./env-checklist.md)
+  - [Checklist of shit that every project needs](./project-checklist.md) 
 
 
 ## **Tools**
 
-  - [GitHub](./github.md) @jeremy
-  - [Docker](./docker.md) @derek / @jeremy
-  - [Application Stacks](./application-stacks.md) @all
-  - [Deployment Platforms](./deployment-platforms.md) @jeremy
+  - [GitHub](./github.md)
+  - [Docker](./docker.md) 
+  - [Application Stacks](./application-stacks.md)
+  - [Deployment Platforms](./deployment-platforms.md) 
